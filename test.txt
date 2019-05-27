@@ -7,3 +7,5 @@ hello github
 write something for test.
 
 this is a dev test.
+
+this is a new&good dev.
