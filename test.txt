@@ -8,4 +8,4 @@ write something for test.
 
 this is a dev test.
 
-this is a new&good dev.
+this is a new and good dev.
